@@ -1,0 +1,18 @@
+enter the city name: hyderabad
+........................
+weather Stats for - HYDERABAD || 23 Jun 2021 | 06:45:48 PM
+.........................
+current temperature is: 28.27 deg C
+current weather desc: haze
+current humidity: 63 %
+current wind speed : 3.09 kmph
+
+
+enter the city name: ranchi
+........................
+weather Stats for - RANCHI || 23 Jun 2021 | 06:48:00 PM
+.........................
+current temperature is: 26.06 deg C
+current weather desc: haze
+current humidity: 94 %
+current wind speed : 1.54 kmph
